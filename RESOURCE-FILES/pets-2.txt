@@ -1,0 +1,10 @@
+cage 
+money 
+sun 
+food money 
+me food 
+walks me 
+dog food walks 
+cat food me sun 
+seed sun 
+bird seed cage 

@@ -1,0 +1,8 @@
+handgun bullets 
+bullets ore 
+ore 
+bombs ore fuse 
+fuse 
+turret bullets 
+dog cat 
+cat 

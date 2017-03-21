@@ -1,0 +1,6 @@
+cat food me 
+food money 
+me food 
+dog food walks 
+walks me 
+money 
